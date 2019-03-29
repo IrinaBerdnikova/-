@@ -1,0 +1,17 @@
+h1~p{
+	color: yellow;
+	font-size: 22px;
+}
+ul+li{
+	color: yellow;
+}
+p~a{
+	color: green;
+	text-decoration: none;
+}
+.content~.block~.block-2~.block-3~li{
+	color: yellow;
+}
+#list3{
+	color: red;
+}
